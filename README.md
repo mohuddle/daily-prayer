@@ -44,7 +44,15 @@ Rebuild `web/data/plan.json` after editing the table:
 python3 scripts/prepare_plan.py
 ```
 
-Lessons open on [BibleGateway](https://www.biblegateway.com/) in the **NKJV**. OT and NT sit on two tabs in The Word.
+Inline verses in the office (openings, today’s head, assisting-prayer rollups, occasions) are the [Berean Standard Bible](https://bereanbible.com/) (`web/data/bsb.json`, built from [bsb.txt](https://bereanbible.com/bsb.txt)). The stored KJV/1710 strings are only a fallback if a citation fails to resolve. The conclusion still prays the liturgical Lord’s Prayer; the “Pray the Lord’s Prayer open” drawer uses BSB for the cited verses.
+
+Rebuild the BSB lookup after refreshing the source text:
+
+```bash
+python3 scripts/prepare_bsb.py
+```
+
+The linked Old and New Testament lessons stay on [BibleGateway](https://www.biblegateway.com/) in the **NKJV**. OT and NT sit on two tabs in The Word.
 
 ## Run the PWA
 
@@ -67,5 +75,6 @@ To keep it running after reboots:
 
 - Matthew Henry, *A Method for Prayer with Scripture Expressions Proper to Be Used under Each Head* (London, 1710). Public domain.
 - [Ligonier Ministries, Bible reading plans](https://www.ligonier.org/posts/bible-reading-plans) — the *Tabletalk* Bible reading plan (two readings a day, Old and New Testament). Not affiliated.
-- Lesson links: [BibleGateway](https://www.biblegateway.com/).
+- Inline Scripture: the [Berean Standard Bible](https://bereanbible.com/) (public domain; CC0).
+- Lesson links: [BibleGateway](https://www.biblegateway.com/) (NKJV).
 - Tab pattern inspired by [Daily Office For All](https://dailyofficeforall.com/morning-prayer.html).

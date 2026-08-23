@@ -1,4 +1,4 @@
-const CACHE = "daily-prayer-v7";
+const CACHE = "daily-prayer-v8";
 const ASSETS = [
   "./",
   "./index.html",
@@ -12,6 +12,7 @@ const ASSETS = [
   "./data/heads.json",
   "./data/occasional.json",
   "./data/extras.json",
+  "./data/bsb.json",
   "./icons/icon.svg",
   "./manifest.webmanifest",
 ];

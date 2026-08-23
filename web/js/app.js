@@ -11,6 +11,7 @@ const state = {
   heads: null,
   occasional: null,
   extras: null,
+  bible: null,
   theme: localStorage.getItem("dp-theme") || "chapel",
   size: localStorage.getItem("dp-size") || "md",
   lesson: localStorage.getItem("dp-lesson") === "nt" ? "nt" : "ot",
@@ -77,18 +78,20 @@ async function loadJSON(path) {
 }
 
 async function boot() {
-  const [plan, method, heads, occasional, extras] = await Promise.all([
+  const [plan, method, heads, occasional, extras, bible] = await Promise.all([
     loadJSON("data/plan.json"),
     loadJSON("data/method.json"),
     loadJSON("data/heads.json"),
     loadJSON("data/occasional.json"),
     loadJSON("data/extras.json"),
+    loadJSON("data/bsb.json"),
   ]);
   state.plan = plan;
   state.method = method;
   state.heads = heads;
   state.occasional = occasional;
   state.extras = extras;
+  state.bible = bible;
   readHash();
   bind();
   applyAppearance();
@@ -202,6 +205,23 @@ function openingFor(d) {
   return list[dayOfYear(d) % list.length];
 }
 
+function bsb(ref, fallback) {
+  if (!ref || !state.bible) return fallback || "";
+  try {
+    return versesFromRef(state.bible, ref);
+  } catch (err) {
+    console.warn(err);
+    return fallback || "";
+  }
+}
+
+function verseHtml(item) {
+  const ref = item.ref || "";
+  const text = bsb(ref, item.pray || item.text || "");
+  const cue = item.cue ? `<strong>${escapeHtml(item.cue)}.</strong> ` : "";
+  return `${cue}${escapeHtml(text)}${ref ? ` <cite>${escapeHtml(ref)} · BSB</cite>` : ""}`;
+}
+
 function todaysHead(sectionId, d) {
   const list = state.heads?.sections?.[sectionId];
   if (!list?.length) return null;
@@ -261,7 +281,7 @@ function renderOffice(day, d) {
     </header>
     <section class="opening">
       <p class="silence">Begin in silence.</p>
-      <p class="sentence">${escapeHtml(opening.text)} <cite>${escapeHtml(opening.ref)}</cite></p>
+      <p class="sentence">${escapeHtml(bsb(opening.ref, opening.text))} <cite>${escapeHtml(opening.ref)} · BSB</cite></p>
     </section>
     ${renderAlsoToday(d)}
     ${sections}
@@ -278,7 +298,7 @@ function renderPrayerSection(section, d) {
     ? renderParaphrase()
     : renderRollup(section);
   const prayer = section.lords_prayer
-    ? `<p class="lords-prayer">${section.lords_prayer.map(escapeHtml).join("<br>")}</p>`
+    ? `<p class="lords-prayer">${escapeHtml(section.lords_prayer.join(" "))}</p>`
     : "";
   return `
     <section class="block" id="${escapeHtml(section.id)}">
@@ -301,8 +321,8 @@ function renderWeeklyRedemption(d) {
     <article class="prompt prompt--week">
       <p class="head-today">This week’s mercy · ${escapeHtml(weekdayName(d))}</p>
       <h3>${escapeHtml(item.title)}</h3>
-      <p class="verse">${escapeHtml(item.pray)}</p>
-      <cite>${escapeHtml(item.ref)}</cite>
+      <p class="verse">${escapeHtml(bsb(item.ref, item.pray))}</p>
+      <cite>${escapeHtml(item.ref)} · BSB</cite>
     </article>
   `;
 }
@@ -311,7 +331,7 @@ function renderStandingIntercession() {
   const items = state.extras?.intercession || [];
   if (!items.length) return "";
   const paras = items.map((item) => `
-      <p class="rollup__verse"><strong>${escapeHtml(item.cue)}.</strong> ${escapeHtml(item.pray)} <cite>${escapeHtml(item.ref)}</cite></p>
+      <p class="rollup__verse">${verseHtml(item)}</p>
     `).join("");
   return `
     <div class="rollup" data-rollup="intercession-standing">
@@ -330,7 +350,7 @@ function renderParaphrase() {
   const items = state.extras?.paraphrase || [];
   if (!items.length) return "";
   const paras = items.map((item) => `
-      <p class="rollup__verse"><strong>${escapeHtml(item.cue)}.</strong> ${escapeHtml(item.pray)} <cite>${escapeHtml(item.ref)}</cite></p>
+      <p class="rollup__verse">${verseHtml(item)}</p>
     `).join("");
   return `
     <div class="rollup" data-rollup="paraphrase">
@@ -351,8 +371,8 @@ function renderHeadCard(appointed) {
     <article class="prompt prompt--today">
       <p class="head-today">Today’s head · ${escapeHtml(head.id)} · ${index + 1} of ${total}</p>
       <h3>${escapeHtml(head.title)}</h3>
-      <p class="verse">${escapeHtml(head.pray)}</p>
-      <cite>${escapeHtml(head.ref)}</cite>
+      <p class="verse">${escapeHtml(bsb(head.ref, head.pray))}</p>
+      <cite>${escapeHtml(head.ref)} · BSB</cite>
     </article>
   `;
 }
@@ -361,8 +381,8 @@ function renderStaticPrompts(section) {
   const prompts = (section.prompts || []).map((item) => `
     <article class="prompt">
       <h3>${escapeHtml(item.cue)}</h3>
-      <p class="verse">${escapeHtml(item.pray)}</p>
-      <cite>${escapeHtml(item.ref)}</cite>
+      <p class="verse">${escapeHtml(bsb(item.ref, item.pray))}</p>
+      <cite>${escapeHtml(item.ref)} · BSB</cite>
     </article>
   `).join("");
   return prompts ? `<div class="prompts">${prompts}</div>` : "";
@@ -372,7 +392,7 @@ function renderRollup(section) {
   const prayers = section.rollup;
   if (!prayers?.length) return "";
   const paras = prayers.map((item) => `
-      <p class="rollup__verse">${escapeHtml(item.text)} <cite>${escapeHtml(item.ref)}</cite></p>
+      <p class="rollup__verse">${verseHtml(item)}</p>
     `).join("");
   return `
     <div class="rollup" data-rollup="${escapeHtml(section.id)}">
@@ -457,7 +477,7 @@ function renderLectio(day) {
 
 function renderOccasion(item, suggested) {
   const paras = (item.prayers || []).map((p) => `
-      <p class="rollup__verse">${escapeHtml(p.text)} <cite>${escapeHtml(p.ref)}</cite></p>
+      <p class="rollup__verse">${verseHtml(p)}</p>
     `).join("");
   const badge = suggested ? `<span class="also__badge">For today</span>` : "";
   return `
