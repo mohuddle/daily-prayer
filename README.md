@@ -32,7 +32,7 @@ The full Method index and family short forms (9.x) are a lookup at `method.html`
 
 ## Scripture plan
 
-Lessons come from Ligonier Tabletalk’s *Bible in a Year* card (2026 edition), stored as calendar dates (`MM-DD`) so the same plan repeats every year.
+Lessons come from the [*Tabletalk* Bible reading plan](https://www.ligonier.org/posts/bible-reading-plans) (Ligonier Ministries; 2026 card, stored as calendar dates `MM-DD` so the plan repeats every year).
 
 - Each day has one Old Testament block and one New Testament block.
 - Weekend catch-up rows on the 2026 card are frozen to those dates. Both days of a pair share the same reading.
@@ -66,6 +66,6 @@ To keep it running after reboots:
 ## Credits
 
 - Matthew Henry, *A Method for Prayer with Scripture Expressions Proper to Be Used under Each Head* (London, 1710). Public domain.
-- Ligonier Ministries / *Tabletalk* magazine, *Bible in a Year* reading card (2026 layout, reused as a repeating calendar plan). Not affiliated.
+- [Ligonier Ministries, Bible reading plans](https://www.ligonier.org/posts/bible-reading-plans) — the *Tabletalk* Bible reading plan (two readings a day, Old and New Testament). Not affiliated.
 - Lesson links: [BibleGateway](https://www.biblegateway.com/).
 - Tab pattern inspired by [Daily Office For All](https://dailyofficeforall.com/morning-prayer.html).

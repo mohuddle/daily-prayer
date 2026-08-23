@@ -390,7 +390,7 @@ def main() -> None:
     payload = {
         "meta": {
             "title": "Bible in a Year",
-            "source": "Tabletalk magazine Bible in a Year card (Ligonier), 2026 edition",
+            "source": "Tabletalk Bible reading plan, Ligonier Ministries, https://www.ligonier.org/posts/bible-reading-plans",
             "description": (
                 "Old Testament and New Testament readings for each calendar date. "
                 "Weekend catch-up blocks from the 2026 card are frozen to those "

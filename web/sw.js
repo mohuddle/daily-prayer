@@ -1,4 +1,4 @@
-const CACHE = "daily-prayer-v6";
+const CACHE = "daily-prayer-v7";
 const ASSETS = [
   "./",
   "./index.html",
