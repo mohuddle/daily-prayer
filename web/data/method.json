@@ -1,0 +1,465 @@
+{
+  "title": "A Method for Prayer",
+  "source": "Matthew Henry, A Method for Prayer with Scripture Expressions Proper to Be Used under Each Head (London, 1710). Public domain.",
+  "note": "Henry meant these heads as a vocabulary, not a script. Pray the day’s Scripture in these shapes. Skip or linger as the Spirit leads.",
+  "openings": [
+    {
+      "text": "O Lord, our Lord, how excellent is your name in all the earth.",
+      "ref": "Psalm 8:1"
+    },
+    {
+      "text": "The Lord is in his holy temple; let all the earth keep silence before him.",
+      "ref": "Habakkuk 2:20"
+    },
+    {
+      "text": "Our help is in the name of the Lord, who made heaven and earth.",
+      "ref": "Psalm 124:8"
+    },
+    {
+      "text": "This is the day that the Lord has made; we will rejoice and be glad in it.",
+      "ref": "Psalm 118:24"
+    },
+    {
+      "text": "O come, let us worship and bow down; let us kneel before the Lord our Maker.",
+      "ref": "Psalm 95:6"
+    },
+    {
+      "text": "I will lift up my eyes to the hills. From where does my help come? My help comes from the Lord, who made heaven and earth.",
+      "ref": "Psalm 121:1–2"
+    },
+    {
+      "text": "Draw near to God, and he will draw near to you.",
+      "ref": "James 4:8"
+    }
+  ],
+  "sections": [
+    {
+      "id": "adoration",
+      "number": "I",
+      "title": "Adoration",
+      "chapter": "Chapter 1 — Address to God, adoration of him",
+      "movement": "Set the Lord before you. Praise his being, perfections, and works before you ask anything.",
+      "prompts": [
+        {
+          "cue": "His being",
+          "pray": "You are God, and there is none else; you are the true God, the living God, the everlasting King.",
+          "ref": "Jeremiah 10:10"
+        },
+        {
+          "cue": "His majesty",
+          "pray": "You are the high and lofty One who inhabits eternity, whose name is Holy.",
+          "ref": "Isaiah 57:15"
+        },
+        {
+          "cue": "Creation",
+          "pray": "You made heaven and earth, the sea, and all that is in them; you preserve them all.",
+          "ref": "Nehemiah 9:6"
+        },
+        {
+          "cue": "Providence",
+          "pray": "You do according to your will in the army of heaven and among the inhabitants of the earth.",
+          "ref": "Daniel 4:35"
+        },
+        {
+          "cue": "The Son",
+          "pray": "Worthy is the Lamb who was slain to receive power and riches and wisdom and strength and honor and glory and blessing.",
+          "ref": "Revelation 5:12"
+        },
+        {
+          "cue": "Approach",
+          "pray": "Through him we have access by one Spirit to the Father. Let my prayer be set forth before you as incense.",
+          "ref": "Ephesians 2:18; Psalm 141:2"
+        }
+      ],
+      "rollup": [
+        {
+          "text": "Let me now lift up my heart, with my eyes and my hands, unto God in the heavens.",
+          "ref": "Lamentations 3:41"
+        },
+        {
+          "text": "Let me stir up myself to take hold on God, to seek his face, and to give him the glory due unto his name.",
+          "ref": "Isaiah 64:7; Psalm 27:8; Psalm 29:2"
+        },
+        {
+          "text": "Unto thee, O Lord, do I lift up my soul.",
+          "ref": "Psalm 25:1"
+        },
+        {
+          "text": "Let me now with humble boldness enter into the holiest by the blood of Jesus, by the new and living way which he hath consecrated for me through the veil, that is to say, his flesh.",
+          "ref": "Hebrews 10:19–20"
+        },
+        {
+          "text": "Thou art God, and there is none else; the true God, the living God, and an everlasting King. Thou art the high and lofty One that inhabiteth eternity, whose name is Holy.",
+          "ref": "Jeremiah 10:10; Isaiah 57:15"
+        },
+        {
+          "text": "Thou, even thou, art Lord alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, and thou preservest them all.",
+          "ref": "Nehemiah 9:6"
+        },
+        {
+          "text": "He doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand.",
+          "ref": "Daniel 4:35"
+        },
+        {
+          "text": "Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.",
+          "ref": "Revelation 5:12"
+        },
+        {
+          "text": "Through him I have access by one Spirit unto the Father. Let my prayer be set forth before thee as incense.",
+          "ref": "Ephesians 2:18; Psalm 141:2"
+        },
+        {
+          "text": "Let me worship God, who is a Spirit, in spirit and in truth: for the Father seeketh such to worship him.",
+          "ref": "John 4:23–24"
+        }
+      ]
+    },
+    {
+      "id": "confession",
+      "number": "II",
+      "title": "Confession",
+      "chapter": "Chapter 2 — Confession of sin, complaints of ourselves, and humble professions of repentance",
+      "movement": "Lie low before God. Confess original corruption, sins of omission and commission, and ask a clean heart.",
+      "prompts": [
+        {
+          "cue": "Our unworthiness",
+          "pray": "Behold, I am vile; what shall I answer you? I will lay my hand upon my mouth.",
+          "ref": "Job 40:4"
+        },
+        {
+          "cue": "Original sin",
+          "pray": "Behold, I was brought forth in iniquity, and in sin did my mother conceive me.",
+          "ref": "Psalm 51:5"
+        },
+        {
+          "cue": "Actual sins",
+          "pray": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled.",
+          "ref": "Daniel 9:5"
+        },
+        {
+          "cue": "Omission",
+          "pray": "To him who knows to do good and does not do it, to him it is sin.",
+          "ref": "James 4:17"
+        },
+        {
+          "cue": "The day’s particulars",
+          "pray": "Who can understand his errors? Cleanse me from secret faults. Keep back your servant also from presumptuous sins.",
+          "ref": "Psalm 19:12–13"
+        },
+        {
+          "cue": "Plea of Christ",
+          "pray": "Have mercy upon me, O God, according to your lovingkindness; according to the multitude of your tender mercies blot out my transgressions. Create in me a clean heart, O God.",
+          "ref": "Psalm 51:1, 10"
+        }
+      ],
+      "rollup": [
+        {
+          "text": "O my God, I am ashamed and blush to lift up my face to thee: for my iniquities are increased over my head, and my trespass is grown up unto the heavens.",
+          "ref": "Ezra 9:6"
+        },
+        {
+          "text": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.",
+          "ref": "Job 40:4"
+        },
+        {
+          "text": "Behold, I was shapen in iniquity, and in sin did my mother conceive me.",
+          "ref": "Psalm 51:5"
+        },
+        {
+          "text": "I have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments.",
+          "ref": "Daniel 9:5"
+        },
+        {
+          "text": "To him that knoweth to do good, and doeth it not, to him it is sin. Who can understand his errors? cleanse thou me from secret faults. Keep back thy servant also from presumptuous sins.",
+          "ref": "James 4:17; Psalm 19:12–13"
+        },
+        {
+          "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions. Create in me a clean heart, O God; and renew a right spirit within me.",
+          "ref": "Psalm 51:1, 10"
+        },
+        {
+          "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+          "ref": "1 John 1:9"
+        }
+      ]
+    },
+    {
+      "id": "scripture",
+      "number": "III",
+      "title": "The Word",
+      "chapter": "Lectio — pray the day’s reading back to God",
+      "movement": "Read the appointed chapters. Pause on phrases you can turn into adoration, confession, petition, or thanks. Henry’s method is to pray Scripture, not merely to finish a plan.",
+      "prompts": [],
+      "rollup": [
+        {
+          "text": "Let me now incline mine ear, and hear the word of the Lord. Speak, Lord, for thy servant heareth.",
+          "ref": "Isaiah 55:3; 1 Samuel 3:10"
+        },
+        {
+          "text": "Thy word is a lamp unto my feet, and a light unto my path. Open thou mine eyes, that I may behold wondrous things out of thy law.",
+          "ref": "Psalm 119:105, 18"
+        },
+        {
+          "text": "Let the word of Christ dwell in me richly. Be thou a doer of the word, and not a hearer only.",
+          "ref": "Colossians 3:16; James 1:22"
+        },
+        {
+          "text": "Sanctify me through thy truth: thy word is truth. Let me pray over what I read, and turn it into praise, confession, and request.",
+          "ref": "John 17:17"
+        }
+      ]
+    },
+    {
+      "id": "petition",
+      "number": "IV",
+      "title": "Petitions",
+      "chapter": "Chapter 3 — Petition and supplication for the good things we stand in need of",
+      "movement": "Ask for pardon, grace, wisdom, and strength for the work of this day.",
+      "prompts": [
+        {
+          "cue": "Pardon",
+          "pray": "For your name’s sake, O Lord, pardon my iniquity, for it is great.",
+          "ref": "Psalm 25:11"
+        },
+        {
+          "cue": "The Spirit",
+          "pray": "Give the Holy Spirit to those who ask you. Uphold me with your generous Spirit.",
+          "ref": "Luke 11:13; Psalm 51:12"
+        },
+        {
+          "cue": "Wisdom",
+          "pray": "If any of you lacks wisdom, let him ask of God, who gives to all liberally. Teach me your way, O Lord.",
+          "ref": "James 1:5; Psalm 27:11"
+        },
+        {
+          "cue": "Duty",
+          "pray": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my strength and my Redeemer.",
+          "ref": "Psalm 19:14"
+        },
+        {
+          "cue": "Protection",
+          "pray": "Lead us not into temptation, but deliver us from evil. Hold up my goings in your paths, that my footsteps slip not.",
+          "ref": "Matthew 6:13; Psalm 17:5"
+        },
+        {
+          "cue": "Provision",
+          "pray": "Give us this day our daily bread. Having food and clothing, let us be content.",
+          "ref": "Matthew 6:11; 1 Timothy 6:8"
+        }
+      ],
+      "rollup": [
+        {
+          "text": "Let me now ask, and it shall be given me; seek, and I shall find; knock, and it shall be opened unto me.",
+          "ref": "Matthew 7:7"
+        },
+        {
+          "text": "For thy name’s sake, O Lord, pardon mine iniquity; for it is great.",
+          "ref": "Psalm 25:11"
+        },
+        {
+          "text": "If ye then, being evil, know how to give good gifts unto your children, how much more shall your heavenly Father give the Holy Spirit to them that ask him? Uphold me with thy free spirit.",
+          "ref": "Luke 11:13; Psalm 51:12"
+        },
+        {
+          "text": "If I lack wisdom, let me ask of God, that giveth to all men liberally. Teach me thy way, O Lord, and lead me in a plain path.",
+          "ref": "James 1:5; Psalm 27:11"
+        },
+        {
+          "text": "Let the words of my mouth, and the meditation of my heart, be acceptable in thy sight, O Lord, my strength, and my redeemer.",
+          "ref": "Psalm 19:14"
+        },
+        {
+          "text": "Lead me not into temptation, but deliver me from evil. Hold up my goings in thy paths, that my footsteps slip not.",
+          "ref": "Matthew 6:13; Psalm 17:5"
+        },
+        {
+          "text": "Give me this day my daily bread. Having food and raiment let me be therewith content.",
+          "ref": "Matthew 6:11; 1 Timothy 6:8"
+        }
+      ]
+    },
+    {
+      "id": "intercession",
+      "number": "V",
+      "title": "Intercession",
+      "chapter": "Chapter 5 — Intercession, or address and supplication to God for others",
+      "movement": "Broaden the prayer from yourself to the church, the world, rulers, the suffering, family, and those who do not yet believe.",
+      "prompts": [
+        {
+          "cue": "The church",
+          "pray": "Peace be within your walls, and prosperity within your palaces. For my brethren and companions’ sakes, I will now say, Peace be within you.",
+          "ref": "Psalm 122:7–8"
+        },
+        {
+          "cue": "Ministers",
+          "pray": "Pray the Lord of the harvest to send out laborers into his harvest. And for me, that utterance may be given.",
+          "ref": "Matthew 9:38; Ephesians 6:19"
+        },
+        {
+          "cue": "Rulers",
+          "pray": "For kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence.",
+          "ref": "1 Timothy 2:2"
+        },
+        {
+          "cue": "The world",
+          "pray": "Let the peoples praise you, O God; let all the peoples praise you. That your way may be known on earth, your salvation among all nations.",
+          "ref": "Psalm 67:3, 2"
+        },
+        {
+          "cue": "The afflicted",
+          "pray": "Remember those who are in bonds as bound with them, and those who suffer adversity.",
+          "ref": "Hebrews 13:3"
+        },
+        {
+          "cue": "Family and neighbors",
+          "pray": "The Lord bless you and keep you. As for me and my house, we will serve the Lord.",
+          "ref": "Numbers 6:24; Joshua 24:15"
+        }
+      ],
+      "rollup": [
+        {
+          "text": "Let me now make supplication, prayer, intercession, and giving of thanks for all men.",
+          "ref": "1 Timothy 2:1"
+        },
+        {
+          "text": "Peace be within thy walls, and prosperity within thy palaces. For my brethren and companions’ sakes, I will now say, Peace be within thee.",
+          "ref": "Psalm 122:7–8"
+        },
+        {
+          "text": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest. And for me, that utterance may be given unto me, that I may open my mouth boldly.",
+          "ref": "Matthew 9:38; Ephesians 6:19"
+        },
+        {
+          "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.",
+          "ref": "1 Timothy 2:2"
+        },
+        {
+          "text": "Let the people praise thee, O God; let all the people praise thee. That thy way may be known upon earth, thy saving health among all nations.",
+          "ref": "Psalm 67:3, 2"
+        },
+        {
+          "text": "Remember them that are in bonds, as bound with them; and them which suffer adversity, as being myself also in the body.",
+          "ref": "Hebrews 13:3"
+        },
+        {
+          "text": "The Lord bless my house and keep it. As for me and my house, we will serve the Lord.",
+          "ref": "Numbers 6:24; Joshua 24:15"
+        }
+      ]
+    },
+    {
+      "id": "thanksgiving",
+      "number": "VI",
+      "title": "Thanksgiving",
+      "chapter": "Chapter 4 — Thanksgivings for the mercies we have received from God",
+      "movement": "Bless God for creation, preservation, redemption, and the mercies of this day.",
+      "prompts": [
+        {
+          "cue": "Daily mercies",
+          "pray": "It is of the Lord’s mercies that we are not consumed, because his compassions fail not. They are new every morning.",
+          "ref": "Lamentations 3:22–23"
+        },
+        {
+          "cue": "Creation and life",
+          "pray": "I will praise you, for I am fearfully and wonderfully made. In you we live and move and have our being.",
+          "ref": "Psalm 139:14; Acts 17:28"
+        },
+        {
+          "cue": "Redemption",
+          "pray": "Thanks be to God for his indescribable gift. Who loved me and gave himself for me.",
+          "ref": "2 Corinthians 9:15; Galatians 2:20"
+        },
+        {
+          "cue": "The Word",
+          "pray": "I will never forget your precepts, for by them you have given me life. Your word is a lamp to my feet.",
+          "ref": "Psalm 119:93, 105"
+        },
+        {
+          "cue": "Hope",
+          "pray": "Blessed be the God and Father of our Lord Jesus Christ, who according to his abundant mercy has begotten us again to a living hope.",
+          "ref": "1 Peter 1:3"
+        }
+      ],
+      "rollup": [
+        {
+          "text": "It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O most High.",
+          "ref": "Psalm 92:1"
+        },
+        {
+          "text": "It is of the Lord’s mercies that I am not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.",
+          "ref": "Lamentations 3:22–23"
+        },
+        {
+          "text": "I will praise thee; for I am fearfully and wonderfully made. In him I live, and move, and have my being.",
+          "ref": "Psalm 139:14; Acts 17:28"
+        },
+        {
+          "text": "Thanks be unto God for his unspeakable gift. The Son of God, who loved me, and gave himself for me.",
+          "ref": "2 Corinthians 9:15; Galatians 2:20"
+        },
+        {
+          "text": "I will never forget thy precepts: for with them thou hast quickened me. Thy word is a lamp unto my feet, and a light unto my path.",
+          "ref": "Psalm 119:93, 105"
+        },
+        {
+          "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten me again unto a lively hope.",
+          "ref": "1 Peter 1:3"
+        }
+      ]
+    },
+    {
+      "id": "conclusion",
+      "number": "VII",
+      "title": "Conclusion",
+      "chapter": "Chapter 7 — The conclusion of our prayers, and Chapter 8 — a paraphrase on the Lord’s Prayer",
+      "movement": "Gather all in the prayer Christ taught, and commit yourself to the Father through the Son.",
+      "lords_prayer": [
+        "Our Father in heaven, hallowed be your Name.",
+        "Your kingdom come, your will be done, on earth as it is in heaven.",
+        "Give us today our daily bread.",
+        "And forgive us our sins, as we forgive those who sin against us.",
+        "Lead us not into temptation, but deliver us from evil.",
+        "For the kingdom, the power, and the glory are yours, now and for ever. Amen."
+      ],
+      "prompts": [
+        {
+          "cue": "In Christ’s name",
+          "pray": "Whatever you ask the Father in my name he will give you. I am the way, the truth, and the life; no one comes to the Father except through me.",
+          "ref": "John 16:23; 14:6"
+        },
+        {
+          "cue": "Commendation",
+          "pray": "Father, into your hands I commit my spirit. I will both lie down in peace, and sleep; for you alone, O Lord, make me dwell in safety.",
+          "ref": "Luke 23:46; Psalm 4:8"
+        },
+        {
+          "cue": "Blessing",
+          "pray": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with us all. Amen.",
+          "ref": "2 Corinthians 13:14"
+        }
+      ],
+      "rollup": [
+        {
+          "text": "Now unto him that is able to do exceeding abundantly above all that I ask or think, according to the power that worketh in me, unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.",
+          "ref": "Ephesians 3:20–21"
+        },
+        {
+          "text": "Whatsoever I shall ask the Father in his name, he will give it me. He is the way, the truth, and the life: no man cometh unto the Father, but by him.",
+          "ref": "John 16:23; 14:6"
+        },
+        {
+          "text": "Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done in earth, as it is in heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+          "ref": "Matthew 6:9–13"
+        },
+        {
+          "text": "Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth. I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety.",
+          "ref": "Psalm 31:5; Psalm 4:8"
+        },
+        {
+          "text": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with me. Amen.",
+          "ref": "2 Corinthians 13:14"
+        }
+      ]
+    }
+  ]
+}

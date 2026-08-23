@@ -1,0 +1,17 @@
+{
+  "name": "Daily Prayer",
+  "short_name": "Daily Prayer",
+  "description": "A single daily office after Matthew Henry’s Method for Prayer, with a year-repeating Bible-in-a-year plan.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a1612",
+  "theme_color": "#1a1612",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

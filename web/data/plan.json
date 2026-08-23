@@ -1,0 +1,1844 @@
+{
+  "meta": {
+    "title": "Bible in a Year",
+    "source": "Tabletalk magazine Bible in a Year card (Ligonier), 2026 edition",
+    "description": "Old Testament and New Testament readings for each calendar date. Weekend catch-up blocks from the 2026 card are frozen to those MM-DD dates so the plan repeats every year. February 29 reuses February 28.",
+    "tracks": [
+      "ot",
+      "nt"
+    ]
+  },
+  "days": {
+    "01-01": {
+      "ot": "Genesis 1–2",
+      "nt": "Matthew 1",
+      "weekend": false
+    },
+    "01-02": {
+      "ot": "Genesis 3–5",
+      "nt": "Matthew 2",
+      "weekend": false
+    },
+    "01-03": {
+      "ot": "Genesis 6–10",
+      "nt": "Matthew 3–4",
+      "weekend": true
+    },
+    "01-04": {
+      "ot": "Genesis 6–10",
+      "nt": "Matthew 3–4",
+      "weekend": true
+    },
+    "01-05": {
+      "ot": "Genesis 11–13",
+      "nt": "Matthew 5",
+      "weekend": false
+    },
+    "01-06": {
+      "ot": "Genesis 14–16",
+      "nt": "Matthew 6",
+      "weekend": false
+    },
+    "01-07": {
+      "ot": "Genesis 17–19",
+      "nt": "Matthew 7",
+      "weekend": false
+    },
+    "01-08": {
+      "ot": "Genesis 20–22",
+      "nt": "Matthew 8",
+      "weekend": false
+    },
+    "01-09": {
+      "ot": "Genesis 23–24",
+      "nt": "Matthew 9",
+      "weekend": false
+    },
+    "01-10": {
+      "ot": "Genesis 25–29",
+      "nt": "Matthew 10",
+      "weekend": true
+    },
+    "01-11": {
+      "ot": "Genesis 25–29",
+      "nt": "Matthew 10",
+      "weekend": true
+    },
+    "01-12": {
+      "ot": "Genesis 30–31",
+      "nt": "Matthew 11:1–15",
+      "weekend": false
+    },
+    "01-13": {
+      "ot": "Genesis 32–33",
+      "nt": "Matthew 11:16–30",
+      "weekend": false
+    },
+    "01-14": {
+      "ot": "Genesis 34–35",
+      "nt": "Matthew 12",
+      "weekend": false
+    },
+    "01-15": {
+      "ot": "Genesis 36–37",
+      "nt": "Matthew 13:1–23",
+      "weekend": false
+    },
+    "01-16": {
+      "ot": "Genesis 38–40",
+      "nt": "Matthew 13:24–58",
+      "weekend": false
+    },
+    "01-17": {
+      "ot": "Genesis 41–46",
+      "nt": "Matthew 14:1–21",
+      "weekend": true
+    },
+    "01-18": {
+      "ot": "Genesis 41–46",
+      "nt": "Matthew 14:1–21",
+      "weekend": true
+    },
+    "01-19": {
+      "ot": "Genesis 47",
+      "nt": "Matthew 14:22–36",
+      "weekend": false
+    },
+    "01-20": {
+      "ot": "Genesis 48–49",
+      "nt": "Matthew 15:1–28",
+      "weekend": false
+    },
+    "01-21": {
+      "ot": "Genesis 50–Exodus 1",
+      "nt": "Matthew 15:29–16:4",
+      "weekend": false
+    },
+    "01-22": {
+      "ot": "Exodus 2–4",
+      "nt": "Matthew 16:5–28",
+      "weekend": false
+    },
+    "01-23": {
+      "ot": "Exodus 5–6",
+      "nt": "Matthew 17",
+      "weekend": false
+    },
+    "01-24": {
+      "ot": "Exodus 7–10",
+      "nt": "Matthew 18:1–20",
+      "weekend": true
+    },
+    "01-25": {
+      "ot": "Exodus 7–10",
+      "nt": "Matthew 18:1–20",
+      "weekend": true
+    },
+    "01-26": {
+      "ot": "Exodus 11–12",
+      "nt": "Matthew 18:21–35",
+      "weekend": false
+    },
+    "01-27": {
+      "ot": "Exodus 13–16",
+      "nt": "Matthew 19:1–15",
+      "weekend": false
+    },
+    "01-28": {
+      "ot": "Exodus 17–19",
+      "nt": "Matthew 19:16–30",
+      "weekend": false
+    },
+    "01-29": {
+      "ot": "Exodus 20–22",
+      "nt": "Matthew 20:1–16",
+      "weekend": false
+    },
+    "01-30": {
+      "ot": "Exodus 23–25",
+      "nt": "Matthew 20:17–34",
+      "weekend": false
+    },
+    "01-31": {
+      "ot": "Exodus 26–28",
+      "nt": "Matthew 21",
+      "weekend": true
+    },
+    "02-01": {
+      "ot": "Exodus 26–28",
+      "nt": "Matthew 21",
+      "weekend": true
+    },
+    "02-02": {
+      "ot": "Exodus 29–30",
+      "nt": "Matthew 22:1–22",
+      "weekend": false
+    },
+    "02-03": {
+      "ot": "Exodus 31–32",
+      "nt": "Matthew 22:23–46",
+      "weekend": false
+    },
+    "02-04": {
+      "ot": "Exodus 33–34",
+      "nt": "Matthew 23:1–22",
+      "weekend": false
+    },
+    "02-05": {
+      "ot": "Exodus 35–36",
+      "nt": "Matthew 23:23–39",
+      "weekend": false
+    },
+    "02-06": {
+      "ot": "Exodus 37–38",
+      "nt": "Matthew 24:1–35",
+      "weekend": false
+    },
+    "02-07": {
+      "ot": "Exodus 39–Leviticus 1",
+      "nt": "Matthew 24:36–25:30",
+      "weekend": true
+    },
+    "02-08": {
+      "ot": "Exodus 39–Leviticus 1",
+      "nt": "Matthew 24:36–25:30",
+      "weekend": true
+    },
+    "02-09": {
+      "ot": "Leviticus 2–3",
+      "nt": "Matthew 25:31–46",
+      "weekend": false
+    },
+    "02-10": {
+      "ot": "Leviticus 4–6",
+      "nt": "Matthew 26:1–35",
+      "weekend": false
+    },
+    "02-11": {
+      "ot": "Leviticus 7–9",
+      "nt": "Matthew 26:36–56",
+      "weekend": false
+    },
+    "02-12": {
+      "ot": "Leviticus 10–12",
+      "nt": "Matthew 26:57–75",
+      "weekend": false
+    },
+    "02-13": {
+      "ot": "Leviticus 13–15",
+      "nt": "Matthew 27",
+      "weekend": false
+    },
+    "02-14": {
+      "ot": "Leviticus 16–18",
+      "nt": "Matthew 28",
+      "weekend": true
+    },
+    "02-15": {
+      "ot": "Leviticus 16–18",
+      "nt": "Matthew 28",
+      "weekend": true
+    },
+    "02-16": {
+      "ot": "Leviticus 19–20",
+      "nt": "Mark 1",
+      "weekend": false
+    },
+    "02-17": {
+      "ot": "Leviticus 21–23",
+      "nt": "Mark 2",
+      "weekend": false
+    },
+    "02-18": {
+      "ot": "Leviticus 24–26",
+      "nt": "Mark 3",
+      "weekend": false
+    },
+    "02-19": {
+      "ot": "Leviticus 27–Numbers 1",
+      "nt": "Mark 4",
+      "weekend": false
+    },
+    "02-20": {
+      "ot": "Numbers 2–3",
+      "nt": "Mark 5:1–20",
+      "weekend": false
+    },
+    "02-21": {
+      "ot": "Numbers 4–9",
+      "nt": "Mark 5:21–43",
+      "weekend": true
+    },
+    "02-22": {
+      "ot": "Numbers 4–9",
+      "nt": "Mark 5:21–43",
+      "weekend": true
+    },
+    "02-23": {
+      "ot": "Numbers 10–12",
+      "nt": "Mark 6:1–29",
+      "weekend": false
+    },
+    "02-24": {
+      "ot": "Numbers 13–15",
+      "nt": "Mark 6:30–56",
+      "weekend": false
+    },
+    "02-25": {
+      "ot": "Numbers 16–18",
+      "nt": "Mark 7:1–13",
+      "weekend": false
+    },
+    "02-26": {
+      "ot": "Numbers 19–21",
+      "nt": "Mark 7:14–37",
+      "weekend": false
+    },
+    "02-27": {
+      "ot": "Numbers 22–24",
+      "nt": "Mark 8:1–21",
+      "weekend": false
+    },
+    "02-28": {
+      "ot": "Numbers 25–28",
+      "nt": "Mark 8:22–9:50",
+      "weekend": true
+    },
+    "03-01": {
+      "ot": "Numbers 25–28",
+      "nt": "Mark 8:22–9:50",
+      "weekend": true
+    },
+    "03-02": {
+      "ot": "Numbers 29–31",
+      "nt": "Mark 10:1–34",
+      "weekend": false
+    },
+    "03-03": {
+      "ot": "Numbers 32–34",
+      "nt": "Mark 10:35–52",
+      "weekend": false
+    },
+    "03-04": {
+      "ot": "Numbers 35–36",
+      "nt": "Mark 11:1–14",
+      "weekend": false
+    },
+    "03-05": {
+      "ot": "Deuteronomy 1–3",
+      "nt": "Mark 11:15–33",
+      "weekend": false
+    },
+    "03-06": {
+      "ot": "Deuteronomy 4–5",
+      "nt": "Mark 12:1–27",
+      "weekend": false
+    },
+    "03-07": {
+      "ot": "Deuteronomy 6–11",
+      "nt": "Mark 12:28–13:31",
+      "weekend": true
+    },
+    "03-08": {
+      "ot": "Deuteronomy 6–11",
+      "nt": "Mark 12:28–13:31",
+      "weekend": true
+    },
+    "03-09": {
+      "ot": "Deuteronomy 12–13",
+      "nt": "Mark 13:32–14:9",
+      "weekend": false
+    },
+    "03-10": {
+      "ot": "Deuteronomy 14–16",
+      "nt": "Mark 14:10–31",
+      "weekend": false
+    },
+    "03-11": {
+      "ot": "Deuteronomy 17–19",
+      "nt": "Mark 14:32–52",
+      "weekend": false
+    },
+    "03-12": {
+      "ot": "Deuteronomy 20–22",
+      "nt": "Mark 14:53–72",
+      "weekend": false
+    },
+    "03-13": {
+      "ot": "Deuteronomy 23–25",
+      "nt": "Mark 15:1–20",
+      "weekend": false
+    },
+    "03-14": {
+      "ot": "Deuteronomy 26–31",
+      "nt": "Mark 15:21–16:20",
+      "weekend": true
+    },
+    "03-15": {
+      "ot": "Deuteronomy 26–31",
+      "nt": "Mark 15:21–16:20",
+      "weekend": true
+    },
+    "03-16": {
+      "ot": "Deuteronomy 32–33",
+      "nt": "Luke 1:1–38",
+      "weekend": false
+    },
+    "03-17": {
+      "ot": "Deuteronomy 34",
+      "nt": "Luke 1:39–56",
+      "weekend": false
+    },
+    "03-18": {
+      "ot": "Joshua 1–2",
+      "nt": "Luke 1:57–80",
+      "weekend": false
+    },
+    "03-19": {
+      "ot": "Joshua 3–4",
+      "nt": "Luke 2:1–21",
+      "weekend": false
+    },
+    "03-20": {
+      "ot": "Joshua 5–6",
+      "nt": "Luke 2:22–52",
+      "weekend": false
+    },
+    "03-21": {
+      "ot": "Joshua 7–10",
+      "nt": "Luke 3",
+      "weekend": true
+    },
+    "03-22": {
+      "ot": "Joshua 7–10",
+      "nt": "Luke 3",
+      "weekend": true
+    },
+    "03-23": {
+      "ot": "Joshua 11–12",
+      "nt": "Luke 4:1–41",
+      "weekend": false
+    },
+    "03-24": {
+      "ot": "Joshua 13–14",
+      "nt": "Luke 4:42–5:26",
+      "weekend": false
+    },
+    "03-25": {
+      "ot": "Joshua 15–17",
+      "nt": "Luke 5:27–39",
+      "weekend": false
+    },
+    "03-26": {
+      "ot": "Joshua 18–19",
+      "nt": "Luke 6:1–26",
+      "weekend": false
+    },
+    "03-27": {
+      "ot": "Joshua 20–22",
+      "nt": "Luke 6:27–49",
+      "weekend": false
+    },
+    "03-28": {
+      "ot": "Joshua 23–Judges 3",
+      "nt": "Luke 7:1–8:3",
+      "weekend": true
+    },
+    "03-29": {
+      "ot": "Joshua 23–Judges 3",
+      "nt": "Luke 7:1–8:3",
+      "weekend": true
+    },
+    "03-30": {
+      "ot": "Judges 4–5",
+      "nt": "Luke 8:4–39",
+      "weekend": false
+    },
+    "03-31": {
+      "ot": "Judges 6–7",
+      "nt": "Luke 8:40–56",
+      "weekend": false
+    },
+    "04-01": {
+      "ot": "Judges 8–10",
+      "nt": "Luke 9:1–27",
+      "weekend": false
+    },
+    "04-02": {
+      "ot": "Judges 11–12",
+      "nt": "Luke 9:28–62",
+      "weekend": false
+    },
+    "04-03": {
+      "ot": "Judges 13–14",
+      "nt": "Luke 10:1–24",
+      "weekend": false
+    },
+    "04-04": {
+      "ot": "Judges 15–19",
+      "nt": "Luke 10:25–11:36",
+      "weekend": true
+    },
+    "04-05": {
+      "ot": "Judges 15–19",
+      "nt": "Luke 10:25–11:36",
+      "weekend": true
+    },
+    "04-06": {
+      "ot": "Judges 20–21",
+      "nt": "Luke 11:37–12:3",
+      "weekend": false
+    },
+    "04-07": {
+      "ot": "Ruth 1–2",
+      "nt": "Luke 12:4–34",
+      "weekend": false
+    },
+    "04-08": {
+      "ot": "Ruth 3–4",
+      "nt": "Luke 12:35–59",
+      "weekend": false
+    },
+    "04-09": {
+      "ot": "1 Samuel 1–2",
+      "nt": "Luke 13:1–21",
+      "weekend": false
+    },
+    "04-10": {
+      "ot": "1 Samuel 3–6",
+      "nt": "Luke 13:22–35",
+      "weekend": false
+    },
+    "04-11": {
+      "ot": "1 Samuel 7–12",
+      "nt": "Luke 14:1–24",
+      "weekend": true
+    },
+    "04-12": {
+      "ot": "1 Samuel 7–12",
+      "nt": "Luke 14:1–24",
+      "weekend": true
+    },
+    "04-13": {
+      "ot": "1 Samuel 13–14",
+      "nt": "Luke 14:25–15:10",
+      "weekend": false
+    },
+    "04-14": {
+      "ot": "1 Samuel 15–17",
+      "nt": "Luke 15:11–32",
+      "weekend": false
+    },
+    "04-15": {
+      "ot": "1 Samuel 18–19",
+      "nt": "Luke 16:1–13",
+      "weekend": false
+    },
+    "04-16": {
+      "ot": "1 Samuel 20–21",
+      "nt": "Luke 16:14–31",
+      "weekend": false
+    },
+    "04-17": {
+      "ot": "1 Samuel 22–23",
+      "nt": "Luke 17:1–19",
+      "weekend": false
+    },
+    "04-18": {
+      "ot": "1 Samuel 24–28",
+      "nt": "Luke 17:20–18:34",
+      "weekend": true
+    },
+    "04-19": {
+      "ot": "1 Samuel 24–28",
+      "nt": "Luke 17:20–18:34",
+      "weekend": true
+    },
+    "04-20": {
+      "ot": "1 Samuel 29–31",
+      "nt": "Luke 18:35–19:10",
+      "weekend": false
+    },
+    "04-21": {
+      "ot": "2 Samuel 1–3",
+      "nt": "Luke 19:11–27",
+      "weekend": false
+    },
+    "04-22": {
+      "ot": "2 Samuel 4–5",
+      "nt": "Luke 19:28–48",
+      "weekend": false
+    },
+    "04-23": {
+      "ot": "2 Samuel 6–8",
+      "nt": "Luke 20:1–26",
+      "weekend": false
+    },
+    "04-24": {
+      "ot": "2 Samuel 9–11",
+      "nt": "Luke 20:27–47",
+      "weekend": false
+    },
+    "04-25": {
+      "ot": "2 Samuel 12–16",
+      "nt": "Luke 21",
+      "weekend": true
+    },
+    "04-26": {
+      "ot": "2 Samuel 12–16",
+      "nt": "Luke 21",
+      "weekend": true
+    },
+    "04-27": {
+      "ot": "2 Samuel 17–19",
+      "nt": "Luke 22:1–23",
+      "weekend": false
+    },
+    "04-28": {
+      "ot": "2 Samuel 20–22",
+      "nt": "Luke 22:24–38",
+      "weekend": false
+    },
+    "04-29": {
+      "ot": "2 Samuel 23–1 Kings 1",
+      "nt": "Luke 22:39–71",
+      "weekend": false
+    },
+    "04-30": {
+      "ot": "1 Kings 2–3",
+      "nt": "Luke 23:1–25",
+      "weekend": false
+    },
+    "05-01": {
+      "ot": "1 Kings 4–5",
+      "nt": "Luke 23:26–43",
+      "weekend": false
+    },
+    "05-02": {
+      "ot": "1 Kings 6–10",
+      "nt": "Luke 23:44–24:12",
+      "weekend": true
+    },
+    "05-03": {
+      "ot": "1 Kings 6–10",
+      "nt": "Luke 23:44–24:12",
+      "weekend": true
+    },
+    "05-04": {
+      "ot": "1 Kings 11–12",
+      "nt": "Luke 24:13–35",
+      "weekend": false
+    },
+    "05-05": {
+      "ot": "1 Kings 13–14",
+      "nt": "Luke 24:36–53",
+      "weekend": false
+    },
+    "05-06": {
+      "ot": "1 Kings 15–16",
+      "nt": "John 1",
+      "weekend": false
+    },
+    "05-07": {
+      "ot": "1 Kings 17–18",
+      "nt": "John 2",
+      "weekend": false
+    },
+    "05-08": {
+      "ot": "1 Kings 19–20",
+      "nt": "John 3:1–21",
+      "weekend": false
+    },
+    "05-09": {
+      "ot": "1 Kings 21–2 Kings 4",
+      "nt": "John 3:22–4:42",
+      "weekend": true
+    },
+    "05-10": {
+      "ot": "1 Kings 21–2 Kings 4",
+      "nt": "John 3:22–4:42",
+      "weekend": true
+    },
+    "05-11": {
+      "ot": "2 Kings 5–6",
+      "nt": "John 4:43–54",
+      "weekend": false
+    },
+    "05-12": {
+      "ot": "2 Kings 7–9",
+      "nt": "John 5:1–29",
+      "weekend": false
+    },
+    "05-13": {
+      "ot": "2 Kings 10–11",
+      "nt": "John 5:30–47",
+      "weekend": false
+    },
+    "05-14": {
+      "ot": "2 Kings 12–14",
+      "nt": "John 6:1–21",
+      "weekend": false
+    },
+    "05-15": {
+      "ot": "2 Kings 15–17",
+      "nt": "John 6:22–59",
+      "weekend": false
+    },
+    "05-16": {
+      "ot": "2 Kings 18–22",
+      "nt": "John 6:60–7:36",
+      "weekend": true
+    },
+    "05-17": {
+      "ot": "2 Kings 18–22",
+      "nt": "John 6:60–7:36",
+      "weekend": true
+    },
+    "05-18": {
+      "ot": "2 Kings 23–24",
+      "nt": "John 7:37–52",
+      "weekend": false
+    },
+    "05-19": {
+      "ot": "2 Kings 25–1 Chronicles 2",
+      "nt": "John 7:53–8:11",
+      "weekend": false
+    },
+    "05-20": {
+      "ot": "1 Chronicles 3–5",
+      "nt": "John 8:12–38",
+      "weekend": false
+    },
+    "05-21": {
+      "ot": "1 Chronicles 6–7",
+      "nt": "John 8:39–59",
+      "weekend": false
+    },
+    "05-22": {
+      "ot": "1 Chronicles 8–10",
+      "nt": "John 9:1–23",
+      "weekend": false
+    },
+    "05-23": {
+      "ot": "1 Chronicles 11–14",
+      "nt": "John 9:24–10:21",
+      "weekend": true
+    },
+    "05-24": {
+      "ot": "1 Chronicles 11–14",
+      "nt": "John 9:24–10:21",
+      "weekend": true
+    },
+    "05-25": {
+      "ot": "1 Chronicles 15–17",
+      "nt": "John 10:22–42",
+      "weekend": false
+    },
+    "05-26": {
+      "ot": "1 Chronicles 18–20",
+      "nt": "John 11:1–27",
+      "weekend": false
+    },
+    "05-27": {
+      "ot": "1 Chronicles 21–23",
+      "nt": "John 11:28–44",
+      "weekend": false
+    },
+    "05-28": {
+      "ot": "1 Chronicles 24–26",
+      "nt": "John 11:45–57",
+      "weekend": false
+    },
+    "05-29": {
+      "ot": "1 Chronicles 27–29",
+      "nt": "John 12:1–19",
+      "weekend": false
+    },
+    "05-30": {
+      "ot": "2 Chronicles 1–6",
+      "nt": "John 12:20–13:20",
+      "weekend": true
+    },
+    "05-31": {
+      "ot": "2 Chronicles 1–6",
+      "nt": "John 12:20–13:20",
+      "weekend": true
+    },
+    "06-01": {
+      "ot": "2 Chronicles 7–9",
+      "nt": "John 13:21–14:14",
+      "weekend": false
+    },
+    "06-02": {
+      "ot": "2 Chronicles 10–12",
+      "nt": "John 14:15–31",
+      "weekend": false
+    },
+    "06-03": {
+      "ot": "2 Chronicles 13–15",
+      "nt": "John 15:1–17",
+      "weekend": false
+    },
+    "06-04": {
+      "ot": "2 Chronicles 16–18",
+      "nt": "John 15:18–16:15",
+      "weekend": false
+    },
+    "06-05": {
+      "ot": "2 Chronicles 19–22",
+      "nt": "John 16:16–33",
+      "weekend": false
+    },
+    "06-06": {
+      "ot": "2 Chronicles 23–27",
+      "nt": "John 17",
+      "weekend": true
+    },
+    "06-07": {
+      "ot": "2 Chronicles 23–27",
+      "nt": "John 17",
+      "weekend": true
+    },
+    "06-08": {
+      "ot": "2 Chronicles 28–30",
+      "nt": "John 18",
+      "weekend": false
+    },
+    "06-09": {
+      "ot": "2 Chronicles 31–33",
+      "nt": "John 19:1–16a",
+      "weekend": false
+    },
+    "06-10": {
+      "ot": "2 Chronicles 34–36",
+      "nt": "John 19:16b–42",
+      "weekend": false
+    },
+    "06-11": {
+      "ot": "Ezra 1–2",
+      "nt": "John 20",
+      "weekend": false
+    },
+    "06-12": {
+      "ot": "Ezra 3–5",
+      "nt": "John 21",
+      "weekend": false
+    },
+    "06-13": {
+      "ot": "Ezra 6–10",
+      "nt": "Acts 1:1–2:13",
+      "weekend": true
+    },
+    "06-14": {
+      "ot": "Ezra 6–10",
+      "nt": "Acts 1:1–2:13",
+      "weekend": true
+    },
+    "06-15": {
+      "ot": "Nehemiah 1–3",
+      "nt": "Acts 2:14–41",
+      "weekend": false
+    },
+    "06-16": {
+      "ot": "Nehemiah 4–5",
+      "nt": "Acts 2:42–3:10",
+      "weekend": false
+    },
+    "06-17": {
+      "ot": "Nehemiah 6–8",
+      "nt": "Acts 3:11–4:22",
+      "weekend": false
+    },
+    "06-18": {
+      "ot": "Nehemiah 9–11",
+      "nt": "Acts 4:23–37",
+      "weekend": false
+    },
+    "06-19": {
+      "ot": "Nehemiah 12–13",
+      "nt": "Acts 5:1–16",
+      "weekend": false
+    },
+    "06-20": {
+      "ot": "Esther 1–6",
+      "nt": "Acts 5:17–6:7",
+      "weekend": true
+    },
+    "06-21": {
+      "ot": "Esther 1–6",
+      "nt": "Acts 5:17–6:7",
+      "weekend": true
+    },
+    "06-22": {
+      "ot": "Esther 7–9",
+      "nt": "Acts 6:8–7:22",
+      "weekend": false
+    },
+    "06-23": {
+      "ot": "Esther 10–Job 2",
+      "nt": "Acts 7:23–34",
+      "weekend": false
+    },
+    "06-24": {
+      "ot": "Job 3–6",
+      "nt": "Acts 7:35–8:3",
+      "weekend": false
+    },
+    "06-25": {
+      "ot": "Job 7–9",
+      "nt": "Acts 8:4–25",
+      "weekend": false
+    },
+    "06-26": {
+      "ot": "Job 10–12",
+      "nt": "Acts 8:26–40",
+      "weekend": false
+    },
+    "06-27": {
+      "ot": "Job 13–17",
+      "nt": "Acts 9:1–31",
+      "weekend": true
+    },
+    "06-28": {
+      "ot": "Job 13–17",
+      "nt": "Acts 9:1–31",
+      "weekend": true
+    },
+    "06-29": {
+      "ot": "Job 18–20",
+      "nt": "Acts 9:32–10:8",
+      "weekend": false
+    },
+    "06-30": {
+      "ot": "Job 21–23",
+      "nt": "Acts 10:9–48",
+      "weekend": false
+    },
+    "07-01": {
+      "ot": "Job 24–25",
+      "nt": "Acts 11",
+      "weekend": false
+    },
+    "07-02": {
+      "ot": "Job 26–27",
+      "nt": "Acts 12",
+      "weekend": false
+    },
+    "07-03": {
+      "ot": "Job 28–30",
+      "nt": "Acts 13",
+      "weekend": false
+    },
+    "07-04": {
+      "ot": "Job 31–36",
+      "nt": "Acts 14",
+      "weekend": true
+    },
+    "07-05": {
+      "ot": "Job 31–36",
+      "nt": "Acts 14",
+      "weekend": true
+    },
+    "07-06": {
+      "ot": "Job 37–38",
+      "nt": "Acts 15",
+      "weekend": false
+    },
+    "07-07": {
+      "ot": "Job 39–40",
+      "nt": "Acts 16:1–15",
+      "weekend": false
+    },
+    "07-08": {
+      "ot": "Job 41–Psalm 1",
+      "nt": "Acts 16:16–40",
+      "weekend": false
+    },
+    "07-09": {
+      "ot": "Psalm 2–3",
+      "nt": "Acts 17:1–15",
+      "weekend": false
+    },
+    "07-10": {
+      "ot": "Psalm 4–6",
+      "nt": "Acts 17:16–34",
+      "weekend": false
+    },
+    "07-11": {
+      "ot": "Psalm 7–12",
+      "nt": "Acts 18",
+      "weekend": true
+    },
+    "07-12": {
+      "ot": "Psalm 7–12",
+      "nt": "Acts 18",
+      "weekend": true
+    },
+    "07-13": {
+      "ot": "Psalm 13–15",
+      "nt": "Acts 19",
+      "weekend": false
+    },
+    "07-14": {
+      "ot": "Psalm 16–18",
+      "nt": "Acts 20:1–16",
+      "weekend": false
+    },
+    "07-15": {
+      "ot": "Psalm 19–22",
+      "nt": "Acts 20:17–38",
+      "weekend": false
+    },
+    "07-16": {
+      "ot": "Psalm 23–24",
+      "nt": "Acts 21:1–16",
+      "weekend": false
+    },
+    "07-17": {
+      "ot": "Psalm 25–27",
+      "nt": "Acts 21:17–36",
+      "weekend": false
+    },
+    "07-18": {
+      "ot": "Psalm 28–32",
+      "nt": "Acts 21:37–23:11",
+      "weekend": true
+    },
+    "07-19": {
+      "ot": "Psalm 28–32",
+      "nt": "Acts 21:37–23:11",
+      "weekend": true
+    },
+    "07-20": {
+      "ot": "Psalm 33–35",
+      "nt": "Acts 23:12–35",
+      "weekend": false
+    },
+    "07-21": {
+      "ot": "Psalm 36–38",
+      "nt": "Acts 24",
+      "weekend": false
+    },
+    "07-22": {
+      "ot": "Psalm 39–41",
+      "nt": "Acts 25",
+      "weekend": false
+    },
+    "07-23": {
+      "ot": "Psalm 42–43",
+      "nt": "Acts 26",
+      "weekend": false
+    },
+    "07-24": {
+      "ot": "Psalm 44–46",
+      "nt": "Acts 27:1–26",
+      "weekend": false
+    },
+    "07-25": {
+      "ot": "Psalm 47–52",
+      "nt": "Acts 27:27–28:10",
+      "weekend": true
+    },
+    "07-26": {
+      "ot": "Psalm 47–52",
+      "nt": "Acts 27:27–28:10",
+      "weekend": true
+    },
+    "07-27": {
+      "ot": "Psalm 53–55",
+      "nt": "Acts 28:11–31",
+      "weekend": false
+    },
+    "07-28": {
+      "ot": "Psalm 56–58",
+      "nt": "Romans 1",
+      "weekend": false
+    },
+    "07-29": {
+      "ot": "Psalm 59–61",
+      "nt": "Romans 2",
+      "weekend": false
+    },
+    "07-30": {
+      "ot": "Psalm 62–64",
+      "nt": "Romans 3",
+      "weekend": false
+    },
+    "07-31": {
+      "ot": "Psalm 65–67",
+      "nt": "Romans 4",
+      "weekend": false
+    },
+    "08-01": {
+      "ot": "Psalm 68–72",
+      "nt": "Romans 5",
+      "weekend": true
+    },
+    "08-02": {
+      "ot": "Psalm 68–72",
+      "nt": "Romans 5",
+      "weekend": true
+    },
+    "08-03": {
+      "ot": "Psalm 73–74",
+      "nt": "Romans 6",
+      "weekend": false
+    },
+    "08-04": {
+      "ot": "Psalm 75–76",
+      "nt": "Romans 7",
+      "weekend": false
+    },
+    "08-05": {
+      "ot": "Psalm 77–79",
+      "nt": "Romans 8",
+      "weekend": false
+    },
+    "08-06": {
+      "ot": "Psalm 80–84",
+      "nt": "Romans 9:1–10:4",
+      "weekend": false
+    },
+    "08-07": {
+      "ot": "Psalm 85–87",
+      "nt": "Romans 10:5–21",
+      "weekend": false
+    },
+    "08-08": {
+      "ot": "Psalm 88–93",
+      "nt": "Romans 11",
+      "weekend": true
+    },
+    "08-09": {
+      "ot": "Psalm 88–93",
+      "nt": "Romans 11",
+      "weekend": true
+    },
+    "08-10": {
+      "ot": "Psalm 94–95",
+      "nt": "Romans 12",
+      "weekend": false
+    },
+    "08-11": {
+      "ot": "Psalm 96–98",
+      "nt": "Romans 13",
+      "weekend": false
+    },
+    "08-12": {
+      "ot": "Psalm 99–101",
+      "nt": "Romans 14",
+      "weekend": false
+    },
+    "08-13": {
+      "ot": "Psalm 102–104",
+      "nt": "Romans 15:1–21",
+      "weekend": false
+    },
+    "08-14": {
+      "ot": "Psalm 105–106",
+      "nt": "Romans 15:22–33",
+      "weekend": false
+    },
+    "08-15": {
+      "ot": "Psalm 107–110",
+      "nt": "Romans 16–1 Corinthians 1",
+      "weekend": true
+    },
+    "08-16": {
+      "ot": "Psalm 107–110",
+      "nt": "Romans 16–1 Corinthians 1",
+      "weekend": true
+    },
+    "08-17": {
+      "ot": "Psalm 111–112",
+      "nt": "1 Corinthians 2",
+      "weekend": false
+    },
+    "08-18": {
+      "ot": "Psalm 113–115",
+      "nt": "1 Corinthians 3",
+      "weekend": false
+    },
+    "08-19": {
+      "ot": "Psalm 116–119:48",
+      "nt": "1 Corinthians 4",
+      "weekend": false
+    },
+    "08-20": {
+      "ot": "Psalm 119:49–104",
+      "nt": "1 Corinthians 5",
+      "weekend": false
+    },
+    "08-21": {
+      "ot": "Psalm 119:105–176",
+      "nt": "1 Corinthians 6",
+      "weekend": false
+    },
+    "08-22": {
+      "ot": "Psalm 120–125",
+      "nt": "1 Corinthians 7",
+      "weekend": true
+    },
+    "08-23": {
+      "ot": "Psalm 120–125",
+      "nt": "1 Corinthians 7",
+      "weekend": true
+    },
+    "08-24": {
+      "ot": "Psalm 126–127",
+      "nt": "1 Corinthians 8",
+      "weekend": false
+    },
+    "08-25": {
+      "ot": "Psalm 128–130",
+      "nt": "1 Corinthians 9",
+      "weekend": false
+    },
+    "08-26": {
+      "ot": "Psalm 131–133",
+      "nt": "1 Corinthians 10:1–22",
+      "weekend": false
+    },
+    "08-27": {
+      "ot": "Psalm 134–137",
+      "nt": "1 Corinthians 10:23–11:1",
+      "weekend": false
+    },
+    "08-28": {
+      "ot": "Psalm 138–141",
+      "nt": "1 Corinthians 11:2–16",
+      "weekend": false
+    },
+    "08-29": {
+      "ot": "Psalm 142–145",
+      "nt": "1 Corinthians 11:17–12:11",
+      "weekend": true
+    },
+    "08-30": {
+      "ot": "Psalm 142–145",
+      "nt": "1 Corinthians 11:17–12:11",
+      "weekend": true
+    },
+    "08-31": {
+      "ot": "Psalm 146–148",
+      "nt": "1 Corinthians 12:12–31",
+      "weekend": false
+    },
+    "09-01": {
+      "ot": "Psalm 149–Proverbs 1",
+      "nt": "1 Corinthians 13",
+      "weekend": false
+    },
+    "09-02": {
+      "ot": "Proverbs 2–4",
+      "nt": "1 Corinthians 14",
+      "weekend": false
+    },
+    "09-03": {
+      "ot": "Proverbs 5–6",
+      "nt": "1 Corinthians 15:1–34",
+      "weekend": false
+    },
+    "09-04": {
+      "ot": "Proverbs 7–8",
+      "nt": "1 Corinthians 15:35–58",
+      "weekend": false
+    },
+    "09-05": {
+      "ot": "Proverbs 9–12",
+      "nt": "1 Corinthians 16–2 Corinthians 1",
+      "weekend": true
+    },
+    "09-06": {
+      "ot": "Proverbs 9–12",
+      "nt": "1 Corinthians 16–2 Corinthians 1",
+      "weekend": true
+    },
+    "09-07": {
+      "ot": "Proverbs 13–14",
+      "nt": "2 Corinthians 2",
+      "weekend": false
+    },
+    "09-08": {
+      "ot": "Proverbs 15–16",
+      "nt": "2 Corinthians 3",
+      "weekend": false
+    },
+    "09-09": {
+      "ot": "Proverbs 17–18",
+      "nt": "2 Corinthians 4",
+      "weekend": false
+    },
+    "09-10": {
+      "ot": "Proverbs 19–20",
+      "nt": "2 Corinthians 5:1–6:13",
+      "weekend": false
+    },
+    "09-11": {
+      "ot": "Proverbs 21–22",
+      "nt": "2 Corinthians 6:14–7:1",
+      "weekend": false
+    },
+    "09-12": {
+      "ot": "Proverbs 23–28",
+      "nt": "2 Corinthians 7:2–8:24",
+      "weekend": true
+    },
+    "09-13": {
+      "ot": "Proverbs 23–28",
+      "nt": "2 Corinthians 7:2–8:24",
+      "weekend": true
+    },
+    "09-14": {
+      "ot": "Proverbs 29–30",
+      "nt": "2 Corinthians 9",
+      "weekend": false
+    },
+    "09-15": {
+      "ot": "Proverbs 31–Ecclesiastes 2",
+      "nt": "2 Corinthians 10",
+      "weekend": false
+    },
+    "09-16": {
+      "ot": "Ecclesiastes 3–4",
+      "nt": "2 Corinthians 11:1–15",
+      "weekend": false
+    },
+    "09-17": {
+      "ot": "Ecclesiastes 5–6",
+      "nt": "2 Corinthians 11:16–33",
+      "weekend": false
+    },
+    "09-18": {
+      "ot": "Ecclesiastes 7–9",
+      "nt": "2 Corinthians 12",
+      "weekend": false
+    },
+    "09-19": {
+      "ot": "Ecclesiastes 10–Song of Solomon 3",
+      "nt": "2 Corinthians 13–Galatians 1",
+      "weekend": true
+    },
+    "09-20": {
+      "ot": "Ecclesiastes 10–Song of Solomon 3",
+      "nt": "2 Corinthians 13–Galatians 1",
+      "weekend": true
+    },
+    "09-21": {
+      "ot": "Song of Solomon 4–6",
+      "nt": "Galatians 2",
+      "weekend": false
+    },
+    "09-22": {
+      "ot": "Song of Solomon 7–Isaiah 1",
+      "nt": "Galatians 3",
+      "weekend": false
+    },
+    "09-23": {
+      "ot": "Isaiah 2–3",
+      "nt": "Galatians 4",
+      "weekend": false
+    },
+    "09-24": {
+      "ot": "Isaiah 4–6",
+      "nt": "Galatians 5",
+      "weekend": false
+    },
+    "09-25": {
+      "ot": "Isaiah 7–9",
+      "nt": "Galatians 6",
+      "weekend": false
+    },
+    "09-26": {
+      "ot": "Isaiah 10–14",
+      "nt": "Ephesians 1–2",
+      "weekend": true
+    },
+    "09-27": {
+      "ot": "Isaiah 10–14",
+      "nt": "Ephesians 1–2",
+      "weekend": true
+    },
+    "09-28": {
+      "ot": "Isaiah 15–17",
+      "nt": "Ephesians 3",
+      "weekend": false
+    },
+    "09-29": {
+      "ot": "Isaiah 18–20",
+      "nt": "Ephesians 4",
+      "weekend": false
+    },
+    "09-30": {
+      "ot": "Isaiah 21–23",
+      "nt": "Ephesians 5",
+      "weekend": false
+    },
+    "10-01": {
+      "ot": "Isaiah 24–26",
+      "nt": "Ephesians 6",
+      "weekend": false
+    },
+    "10-02": {
+      "ot": "Isaiah 27–28",
+      "nt": "Philippians 1",
+      "weekend": false
+    },
+    "10-03": {
+      "ot": "Isaiah 29–32",
+      "nt": "Philippians 2–3",
+      "weekend": true
+    },
+    "10-04": {
+      "ot": "Isaiah 29–32",
+      "nt": "Philippians 2–3",
+      "weekend": true
+    },
+    "10-05": {
+      "ot": "Isaiah 33–34",
+      "nt": "Philippians 4",
+      "weekend": false
+    },
+    "10-06": {
+      "ot": "Isaiah 35–37",
+      "nt": "Colossians 1:1–2:5",
+      "weekend": false
+    },
+    "10-07": {
+      "ot": "Isaiah 38–40",
+      "nt": "Colossians 2:6–3:17",
+      "weekend": false
+    },
+    "10-08": {
+      "ot": "Isaiah 41–42",
+      "nt": "Colossians 3:18–4:18",
+      "weekend": false
+    },
+    "10-09": {
+      "ot": "Isaiah 43–44",
+      "nt": "1 Thessalonians 1",
+      "weekend": false
+    },
+    "10-10": {
+      "ot": "Isaiah 45–50",
+      "nt": "1 Thessalonians 2:1–3:5",
+      "weekend": true
+    },
+    "10-11": {
+      "ot": "Isaiah 45–50",
+      "nt": "1 Thessalonians 2:1–3:5",
+      "weekend": true
+    },
+    "10-12": {
+      "ot": "Isaiah 51–53",
+      "nt": "1 Thessalonians 3:6–13",
+      "weekend": false
+    },
+    "10-13": {
+      "ot": "Isaiah 54–55",
+      "nt": "1 Thessalonians 4",
+      "weekend": false
+    },
+    "10-14": {
+      "ot": "Isaiah 56–58",
+      "nt": "1 Thessalonians 5",
+      "weekend": false
+    },
+    "10-15": {
+      "ot": "Isaiah 59–61",
+      "nt": "2 Thessalonians 1",
+      "weekend": false
+    },
+    "10-16": {
+      "ot": "Isaiah 62–64",
+      "nt": "2 Thessalonians 2",
+      "weekend": false
+    },
+    "10-17": {
+      "ot": "Isaiah 65–Jeremiah 3",
+      "nt": "2 Thessalonians 3–1 Timothy 1",
+      "weekend": true
+    },
+    "10-18": {
+      "ot": "Isaiah 65–Jeremiah 3",
+      "nt": "2 Thessalonians 3–1 Timothy 1",
+      "weekend": true
+    },
+    "10-19": {
+      "ot": "Jeremiah 4–5",
+      "nt": "1 Timothy 2",
+      "weekend": false
+    },
+    "10-20": {
+      "ot": "Jeremiah 6–7",
+      "nt": "1 Timothy 3",
+      "weekend": false
+    },
+    "10-21": {
+      "ot": "Jeremiah 8–9",
+      "nt": "1 Timothy 4",
+      "weekend": false
+    },
+    "10-22": {
+      "ot": "Jeremiah 10–11",
+      "nt": "1 Timothy 5:1–6:2a",
+      "weekend": false
+    },
+    "10-23": {
+      "ot": "Jeremiah 12–13",
+      "nt": "1 Timothy 6:2b–21",
+      "weekend": false
+    },
+    "10-24": {
+      "ot": "Jeremiah 14–17",
+      "nt": "2 Timothy 1–2",
+      "weekend": true
+    },
+    "10-25": {
+      "ot": "Jeremiah 14–17",
+      "nt": "2 Timothy 1–2",
+      "weekend": true
+    },
+    "10-26": {
+      "ot": "Jeremiah 18–20",
+      "nt": "2 Timothy 3",
+      "weekend": false
+    },
+    "10-27": {
+      "ot": "Jeremiah 21–23",
+      "nt": "2 Timothy 4",
+      "weekend": false
+    },
+    "10-28": {
+      "ot": "Jeremiah 24–26",
+      "nt": "Titus 1",
+      "weekend": false
+    },
+    "10-29": {
+      "ot": "Jeremiah 27–28",
+      "nt": "Titus 2",
+      "weekend": false
+    },
+    "10-30": {
+      "ot": "Jeremiah 29–30",
+      "nt": "Titus 3",
+      "weekend": false
+    },
+    "10-31": {
+      "ot": "Jeremiah 31–36",
+      "nt": "Philemon–Hebrews 1",
+      "weekend": true
+    },
+    "11-01": {
+      "ot": "Jeremiah 31–36",
+      "nt": "Philemon–Hebrews 1",
+      "weekend": true
+    },
+    "11-02": {
+      "ot": "Jeremiah 37–38",
+      "nt": "Hebrews 2",
+      "weekend": false
+    },
+    "11-03": {
+      "ot": "Jeremiah 39–41",
+      "nt": "Hebrews 3:1–4:13",
+      "weekend": false
+    },
+    "11-04": {
+      "ot": "Jeremiah 42–43",
+      "nt": "Hebrews 4:14–5:10",
+      "weekend": false
+    },
+    "11-05": {
+      "ot": "Jeremiah 44–45",
+      "nt": "Hebrews 5:11–6:12",
+      "weekend": false
+    },
+    "11-06": {
+      "ot": "Jeremiah 46–48",
+      "nt": "Hebrews 6:13–7:10",
+      "weekend": false
+    },
+    "11-07": {
+      "ot": "Jeremiah 49–Lamentations 2",
+      "nt": "Hebrews 7:11–28",
+      "weekend": true
+    },
+    "11-08": {
+      "ot": "Jeremiah 49–Lamentations 2",
+      "nt": "Hebrews 7:11–28",
+      "weekend": true
+    },
+    "11-09": {
+      "ot": "Lamentations 3–4",
+      "nt": "Hebrews 8",
+      "weekend": false
+    },
+    "11-10": {
+      "ot": "Lamentations 5–Ezekiel 1",
+      "nt": "Hebrews 9",
+      "weekend": false
+    },
+    "11-11": {
+      "ot": "Ezekiel 2–3",
+      "nt": "Hebrews 10",
+      "weekend": false
+    },
+    "11-12": {
+      "ot": "Ezekiel 4–6",
+      "nt": "Hebrews 11:1–16",
+      "weekend": false
+    },
+    "11-13": {
+      "ot": "Ezekiel 7–9",
+      "nt": "Hebrews 11:17–40",
+      "weekend": false
+    },
+    "11-14": {
+      "ot": "Ezekiel 10–14",
+      "nt": "Hebrews 12–13",
+      "weekend": true
+    },
+    "11-15": {
+      "ot": "Ezekiel 10–14",
+      "nt": "Hebrews 12–13",
+      "weekend": true
+    },
+    "11-16": {
+      "ot": "Ezekiel 15–17",
+      "nt": "James 1",
+      "weekend": false
+    },
+    "11-17": {
+      "ot": "Ezekiel 18–20",
+      "nt": "James 2",
+      "weekend": false
+    },
+    "11-18": {
+      "ot": "Ezekiel 21",
+      "nt": "James 3",
+      "weekend": false
+    },
+    "11-19": {
+      "ot": "Ezekiel 22–24",
+      "nt": "James 4",
+      "weekend": false
+    },
+    "11-20": {
+      "ot": "Ezekiel 25–26",
+      "nt": "James 5",
+      "weekend": false
+    },
+    "11-21": {
+      "ot": "Ezekiel 27–29",
+      "nt": "1 Peter 1–2",
+      "weekend": true
+    },
+    "11-22": {
+      "ot": "Ezekiel 27–29",
+      "nt": "1 Peter 1–2",
+      "weekend": true
+    },
+    "11-23": {
+      "ot": "Ezekiel 30–31",
+      "nt": "1 Peter 3",
+      "weekend": false
+    },
+    "11-24": {
+      "ot": "Ezekiel 32–34",
+      "nt": "1 Peter 4",
+      "weekend": false
+    },
+    "11-25": {
+      "ot": "Ezekiel 35–36",
+      "nt": "1 Peter 5",
+      "weekend": false
+    },
+    "11-26": {
+      "ot": "Ezekiel 37–38",
+      "nt": "2 Peter 1",
+      "weekend": false
+    },
+    "11-27": {
+      "ot": "Ezekiel 39–40",
+      "nt": "2 Peter 2",
+      "weekend": false
+    },
+    "11-28": {
+      "ot": "Ezekiel 41–44",
+      "nt": "2 Peter 3–1 John 1",
+      "weekend": true
+    },
+    "11-29": {
+      "ot": "Ezekiel 41–44",
+      "nt": "2 Peter 3–1 John 1",
+      "weekend": true
+    },
+    "11-30": {
+      "ot": "Ezekiel 45–46",
+      "nt": "1 John 2",
+      "weekend": false
+    },
+    "12-01": {
+      "ot": "Ezekiel 47–48",
+      "nt": "1 John 3",
+      "weekend": false
+    },
+    "12-02": {
+      "ot": "Daniel 1–2",
+      "nt": "1 John 4",
+      "weekend": false
+    },
+    "12-03": {
+      "ot": "Daniel 3–4",
+      "nt": "1 John 5",
+      "weekend": false
+    },
+    "12-04": {
+      "ot": "Daniel 5–6",
+      "nt": "2 John",
+      "weekend": false
+    },
+    "12-05": {
+      "ot": "Daniel 7–12",
+      "nt": "3 John–Jude",
+      "weekend": true
+    },
+    "12-06": {
+      "ot": "Daniel 7–12",
+      "nt": "3 John–Jude",
+      "weekend": true
+    },
+    "12-07": {
+      "ot": "Hosea 1–2",
+      "nt": "Revelation 1",
+      "weekend": false
+    },
+    "12-08": {
+      "ot": "Hosea 3–4",
+      "nt": "Revelation 2",
+      "weekend": false
+    },
+    "12-09": {
+      "ot": "Hosea 5–6",
+      "nt": "Revelation 3",
+      "weekend": false
+    },
+    "12-10": {
+      "ot": "Hosea 7–10",
+      "nt": "Revelation 4",
+      "weekend": false
+    },
+    "12-11": {
+      "ot": "Hosea 11–14",
+      "nt": "Revelation 5",
+      "weekend": false
+    },
+    "12-12": {
+      "ot": "Joel–Amos 3",
+      "nt": "Revelation 6",
+      "weekend": true
+    },
+    "12-13": {
+      "ot": "Joel–Amos 3",
+      "nt": "Revelation 6",
+      "weekend": true
+    },
+    "12-14": {
+      "ot": "Amos 4–6",
+      "nt": "Revelation 7",
+      "weekend": false
+    },
+    "12-15": {
+      "ot": "Amos 7–9",
+      "nt": "Revelation 8",
+      "weekend": false
+    },
+    "12-16": {
+      "ot": "Obadiah–Jonah 3",
+      "nt": "Revelation 9",
+      "weekend": false
+    },
+    "12-17": {
+      "ot": "Jonah 4–Micah 2",
+      "nt": "Revelation 10",
+      "weekend": false
+    },
+    "12-18": {
+      "ot": "Micah 3",
+      "nt": "Revelation 11",
+      "weekend": false
+    },
+    "12-19": {
+      "ot": "Micah 4–Nahum 1",
+      "nt": "Revelation 12",
+      "weekend": true
+    },
+    "12-20": {
+      "ot": "Micah 4–Nahum 1",
+      "nt": "Revelation 12",
+      "weekend": true
+    },
+    "12-21": {
+      "ot": "Nahum 2–3",
+      "nt": "Revelation 13",
+      "weekend": false
+    },
+    "12-22": {
+      "ot": "Habakkuk 1–2",
+      "nt": "Revelation 14",
+      "weekend": false
+    },
+    "12-23": {
+      "ot": "Habakkuk 3–Zephaniah 2",
+      "nt": "Revelation 15",
+      "weekend": false
+    },
+    "12-24": {
+      "ot": "Zephaniah 3–Haggai 2",
+      "nt": "Revelation 16",
+      "weekend": false
+    },
+    "12-25": {
+      "ot": "Zechariah 1–3",
+      "nt": "Revelation 17",
+      "weekend": false
+    },
+    "12-26": {
+      "ot": "Zechariah 4–9",
+      "nt": "Revelation 18",
+      "weekend": true
+    },
+    "12-27": {
+      "ot": "Zechariah 4–9",
+      "nt": "Revelation 18",
+      "weekend": true
+    },
+    "12-28": {
+      "ot": "Zechariah 10–12",
+      "nt": "Revelation 19",
+      "weekend": false
+    },
+    "12-29": {
+      "ot": "Zechariah 13–14",
+      "nt": "Revelation 20",
+      "weekend": false
+    },
+    "12-30": {
+      "ot": "Malachi 1–2",
+      "nt": "Revelation 21",
+      "weekend": false
+    },
+    "12-31": {
+      "ot": "Malachi 3–4",
+      "nt": "Revelation 22",
+      "weekend": false
+    },
+    "02-29": {
+      "ot": "Numbers 25–28",
+      "nt": "Mark 8:22–9:50",
+      "weekend": true,
+      "leap": true
+    }
+  }
+}

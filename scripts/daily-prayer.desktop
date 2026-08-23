@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Daily Prayer LAN
+Comment=Serve Daily Prayer on port 8767
+Path=/home/anon/Work/daily-prayer
+Exec=/usr/bin/python3 /home/anon/Work/daily-prayer/scripts/serve_lan.py --host 0.0.0.0 --ports 8767
+X-GNOME-Autostart-enabled=true
+StartupNotify=false
+Terminal=false

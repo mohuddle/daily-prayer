@@ -1,0 +1,14 @@
+[Unit]
+Description=Daily Prayer LAN server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/Work/daily-prayer
+ExecStart=/usr/bin/python3 scripts/serve_lan.py --host 0.0.0.0 --ports 8767
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=default.target

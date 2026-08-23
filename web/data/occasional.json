@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "source": "Matthew Henry, A Method for Prayer (1710), occasional addresses.",
+    "note": "Lord’s Day items surface on Saturday and Sunday. Morning and evening follow the clock. The rest wait in the drawer."
+  },
+  "items": [
+    {
+      "id": "8.1",
+      "title": "If this is morning",
+      "when": [
+        "morning"
+      ],
+      "prayers": [
+        {
+          "text": "O God, thou art my God; early will I seek thee. Cause me to hear thy lovingkindness in the morning; for in thee do I trust.",
+          "ref": "Psalm 63:1; Psalm 143:8"
+        },
+        {
+          "text": "It is of the Lord’s mercies that I am not consumed, because his compassions fail not. They are new every morning.",
+          "ref": "Lamentations 3:22–23"
+        },
+        {
+          "text": "Let the beauty of the Lord our God be upon me: and establish thou the work of my hands upon me.",
+          "ref": "Psalm 90:17"
+        }
+      ]
+    },
+    {
+      "id": "8.2",
+      "title": "If this is evening",
+      "when": [
+        "evening"
+      ],
+      "prayers": [
+        {
+          "text": "I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety.",
+          "ref": "Psalm 4:8"
+        },
+        {
+          "text": "Let my prayer be set forth before thee as incense; and the lifting up of my hands as the evening sacrifice.",
+          "ref": "Psalm 141:2"
+        },
+        {
+          "text": "Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth.",
+          "ref": "Psalm 31:5"
+        }
+      ]
+    },
+    {
+      "id": "8.6",
+      "title": "Evening before the Lord’s Day",
+      "when": [
+        "saturday"
+      ],
+      "prayers": [
+        {
+          "text": "Remember the sabbath day, to keep it holy. I was glad when they said unto me, Let us go into the house of the Lord.",
+          "ref": "Exodus 20:8; Psalm 122:1"
+        },
+        {
+          "text": "Prepare to meet thy God. Let me lay aside this world’s cares, and call the sabbath a delight.",
+          "ref": "Amos 4:12; Isaiah 58:13"
+        }
+      ]
+    },
+    {
+      "id": "8.7",
+      "title": "Morning of the Lord’s Day",
+      "when": [
+        "sunday"
+      ],
+      "prayers": [
+        {
+          "text": "This is the day which the Lord hath made; we will rejoice and be glad in it. I was in the Spirit on the Lord’s day.",
+          "ref": "Psalm 118:24; Revelation 1:10"
+        },
+        {
+          "text": "How amiable are thy tabernacles, O Lord of hosts! My soul longeth, yea, even fainteth for the courts of the Lord.",
+          "ref": "Psalm 84:1–2"
+        }
+      ]
+    },
+    {
+      "id": "8.8",
+      "title": "Public worship",
+      "when": [
+        "sunday"
+      ],
+      "prayers": [
+        {
+          "text": "Not forsaking the assembling of ourselves together. Let us go into the house of the Lord.",
+          "ref": "Hebrews 10:25; Psalm 122:1"
+        },
+        {
+          "text": "The Lord is in his holy temple: let all the earth keep silence before him. Let the word of Christ dwell in me richly.",
+          "ref": "Habakkuk 2:20; Colossians 3:16"
+        }
+      ]
+    },
+    {
+      "id": "8.3",
+      "title": "Before a meal",
+      "when": [],
+      "prayers": [
+        {
+          "text": "Every creature of God is good, and nothing to be refused, if it be received with thanksgiving: for it is sanctified by the word of God and prayer.",
+          "ref": "1 Timothy 4:4–5"
+        },
+        {
+          "text": "Give us this day our daily bread. Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+          "ref": "Matthew 6:11; 1 Corinthians 10:31"
+        }
+      ]
+    },
+    {
+      "id": "8.4",
+      "title": "After a meal",
+      "when": [],
+      "prayers": [
+        {
+          "text": "When thou hast eaten and art full, then thou shalt bless the Lord thy God. Bless the Lord, O my soul, and forget not all his benefits.",
+          "ref": "Deuteronomy 8:10; Psalm 103:2"
+        }
+      ]
+    },
+    {
+      "id": "8.5",
+      "title": "For travelling",
+      "when": [],
+      "prayers": [
+        {
+          "text": "The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
+          "ref": "Psalm 121:8"
+        },
+        {
+          "text": "In all thy ways acknowledge him, and he shall direct thy paths.",
+          "ref": "Proverbs 3:6"
+        }
+      ]
+    },
+    {
+      "id": "8.15",
+      "title": "For one weighed down",
+      "when": [],
+      "prayers": [
+        {
+          "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest. Cast thy burden upon the Lord, and he shall sustain thee.",
+          "ref": "Matthew 11:28; Psalm 55:22"
+        },
+        {
+          "text": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+          "ref": "Galatians 6:2"
+        }
+      ]
+    },
+    {
+      "id": "8.17",
+      "title": "For the sick and weak",
+      "when": [],
+      "prayers": [
+        {
+          "text": "Is any sick among you? let him call for the elders of the church. The prayer of faith shall save the sick.",
+          "ref": "James 5:14–15"
+        },
+        {
+          "text": "Himself took our infirmities, and bare our sicknesses. Heal me, O Lord, and I shall be healed.",
+          "ref": "Matthew 8:17; Jeremiah 17:14"
+        }
+      ]
+    }
+  ]
+}
