@@ -78,3 +78,6 @@ To keep it running after reboots:
 - Inline Scripture: the [Berean Standard Bible](https://bereanbible.com/) (public domain; CC0).
 - Lesson links: [BibleGateway](https://www.biblegateway.com/) (NKJV).
 - Tab pattern inspired by [Daily Office For All](https://dailyofficeforall.com/morning-prayer.html).
+
+---
+Made by [Mobitecture](https://github.com/mohuddle) · apps, architected.
